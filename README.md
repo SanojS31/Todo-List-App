@@ -11,4 +11,4 @@
  **Technologies used:** *HTML*, *CSS*, *Javascript*, *Bootstrap*
 <hr/>
 
-## **Website**:- [Todo-list-Application](https://durgatodoweb.ccbp.tech/)
+## **Website**:- [Todo-list-Application](https://sanojtodoapp.ccbp.tech/)
